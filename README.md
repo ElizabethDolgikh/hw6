@@ -28,6 +28,10 @@
 
 ![](https://github.com/ElizabethDolgikh/hw6/blob/master/additional_pic_5.png)
 
-Судя по получившемуся в Ngram Viewer графику, чаще всего "only" встречается в качестве наречия:
+Судя по получившемуся в Ngram Viewer графику, чаще всего "only" встречается в качестве наречия, реже всего - в качестве существительного и союза. Линии "ONLY_NOUN" и ONLY_CONJ" на графике сливаются.
 
 ![](https://github.com/ElizabethDolgikh/hw6/blob/master/NgramViewer_2.png "part-of-speech tags")
+
+P.S. "case-insensitive search" был применен, т.к. в качестве наречия "only" может располагаться в начале предложения. В остальных случаях - только в середине или в конце предложения, что и показал Ngram Viewer:
+
+![](https://github.com/ElizabethDolgikh/hw6/blob/master/NgramViewer2_comment.png)
